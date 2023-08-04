@@ -1,0 +1,1 @@
+# task_of_the_seminar_git
